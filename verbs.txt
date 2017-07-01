@@ -39,7 +39,6 @@ aberrate
 abet
 abhor
 abide
-abide by
 abjure
 ablactate
 ablate
@@ -48,7 +47,6 @@ abolish
 abominate
 abort
 abound
-abound in
 about-face
 abrade
 abrase
@@ -85,7 +83,6 @@ accomplish
 accord
 accost
 account
-account for
 accouter
 accoutre
 accredit
@@ -115,14 +112,11 @@ acquiesce
 acquire
 acquit
 act
-act as
 act involuntarily
-act on
 act out
 act reflexively
 act superior
 act up
-act upon
 action
 activate
 actualise
@@ -132,8 +126,6 @@ acuminate
 ad-lib
 adapt
 add
-add on
-add to
 add together
 add up
 addict
@@ -249,14 +241,11 @@ alliterate
 allocate
 allot
 allow
-allow for
-allow in
 allowance
 alloy
 allude
 allure
 ally
-ally with
 alphabetise
 alphabetize
 alter
@@ -331,7 +320,6 @@ anodise
 anodize
 anoint
 answer
-answer for
 antagonise
 antagonize
 ante
@@ -411,7 +399,6 @@ arrange
 array
 arrest
 arrive
-arrive at
 arrogate
 arse about
 arse around
@@ -424,10 +411,8 @@ ascertain
 ascribe
 ash
 ask
-ask for
 ask for it
 ask for trouble
-ask in
 ask out
 ask over
 ask round
@@ -468,14 +453,12 @@ atomize
 atone
 atrophy
 attach
-attach to
 attack
 attain
 attaint
 attemper
 attempt
 attend
-attend to
 attenuate
 attest
 attire
@@ -671,7 +654,6 @@ be due
 be full
 be given
 be intimate
-be on
 be on cloud nine
 be on the ball
 be quiet
@@ -687,14 +669,10 @@ bean
 bear
 bear away
 bear down
-bear down on
-bear down upon
 bear in mind
 bear off
-bear on
 bear out
 bear up
-bear upon
 bear witness
 beard
 beat
@@ -703,7 +681,6 @@ beat about
 beat around the bush
 beat back
 beat down
-beat in
 beat out
 beat up
 beatify
@@ -768,7 +745,6 @@ belch
 beleaguer
 belie
 believe
-believe in
 belittle
 bell
 bell the cat
@@ -781,7 +757,6 @@ belly-land
 bellyache
 bellylaugh
 belong
-belong to
 belt
 belt along
 belt down
@@ -831,7 +806,6 @@ bestow
 bestrew
 bestride
 bet
-bet on
 betake oneself
 bethink
 betide
@@ -1070,7 +1044,6 @@ bootstrap
 booze
 bop
 border
-border on
 bore
 borrow
 bosom
@@ -1104,12 +1077,10 @@ bowl
 bowl over
 bowse
 box
-box in
 box up
 boycott
 brabble
 brace
-brace oneself for
 brace up
 brachiate
 bracket
@@ -1149,7 +1120,6 @@ break dance
 break down
 break even
 break in
-break into
 break loose
 break off
 break one's back
@@ -1161,7 +1131,6 @@ break through
 break up
 break water
 break wind
-break with
 break-dance
 breakfast
 bream
@@ -1180,13 +1149,11 @@ breeze through
 brevet
 brew
 bribe
-brick in
 brick over
 brick up
 bridge
 bridge over
 bridle
-bridle at
 bridle up
 brief
 brigade
@@ -1203,15 +1170,12 @@ bring forth
 bring forward
 bring home
 bring home the bacon
-bring in
 bring off
-bring on
 bring oneself
 bring out
 bring outside
 bring round
 bring through
-bring to
 bring to bear
 bring together
 bring up
@@ -1219,7 +1183,6 @@ brisk
 brisk up
 brisken
 bristle
-bristle at
 bristle up
 broach
 broadcast
@@ -1247,7 +1210,6 @@ brush
 brush aside
 brush down
 brush off
-brush on
 brush up
 brutalise
 brutalize
@@ -1266,7 +1228,6 @@ buckram
 bud
 budge
 budget
-budget for
 buff
 buffalo
 buffer
@@ -1277,10 +1238,7 @@ bugger
 bugger off
 bugle
 build
-build in
-build on
 build up
-build upon
 bulge
 bulge out
 bulk
@@ -1303,7 +1261,6 @@ bum around
 bumble
 bump
 bump around
-bump into
 bump off
 bump up
 bunch
@@ -1344,9 +1301,7 @@ burr
 burrow
 burst
 burst forth
-burst in on
 burst out
-burst upon
 burthen
 bury
 bus
@@ -1363,9 +1318,7 @@ bustle about
 busy
 butcher
 butt
-butt against
 butt in
-butt on
 butt-weld
 butter
 butter up
@@ -1377,11 +1330,9 @@ buttress
 buttweld
 butylate
 buy
-buy at
 buy back
 buy food
 buy in
-buy into
 buy it
 buy off
 buy out
@@ -1406,7 +1357,6 @@ caddie
 caddy
 cadge
 cage
-cage in
 cajole
 cake
 cakewalk
@@ -1420,18 +1370,15 @@ calibrate
 caliper
 calk
 call
-call at
 call attention
 call back
 call down
-call for
 call forth
 call in
 call into question
 call it a day
 call it quits
 call off
-call on
 call on the carpet
 call one's bluff
 call out
@@ -1520,7 +1467,6 @@ carburize
 card
 care
 care a hang
-care for
 careen
 career
 caress
@@ -1564,7 +1510,6 @@ case
 caseate
 cash
 cash in
-cash in on
 cash in one's chips
 cash out
 cashier
@@ -1577,7 +1522,6 @@ cast aside
 cast away
 cast down
 cast off
-cast on
 cast out
 castigate
 castle
@@ -1597,13 +1541,11 @@ catch a wink
 catch cold
 catch fire
 catch it
-catch on
 catch one's breath
 catch out
 catch sight
 catch some Z's
 catch up
-catch up with
 catechise
 catechize
 categorise
@@ -1644,7 +1586,6 @@ censor
 censure
 census
 center
-center on
 center punch
 centralise
 centralize
@@ -1674,8 +1615,6 @@ chamfer
 champ
 champion
 chance
-chance on
-chance upon
 chandelle
 change
 change by reversal
@@ -1724,14 +1663,11 @@ chauffeur
 chaw
 cheapen
 cheat
-cheat on
 check
 check in
-check into
 check off
 check out
 check over
-check up on
 checker
 checkmate
 checkrow
@@ -1769,9 +1705,7 @@ chin up
 chine
 chink
 chip
-chip at
 chip away
-chip away at
 chip in
 chip off
 chirk
@@ -1781,7 +1715,6 @@ chirp
 chirr
 chirrup
 chisel
-chisel in
 chit-chat
 chitchat
 chitter
@@ -1873,7 +1806,6 @@ clangor
 clangour
 clank
 clap
-clap on
 clap together
 clap up
 clapboard
@@ -1915,11 +1847,9 @@ click open
 climax
 climb
 climb down
-climb on
 climb up
 clinch
 cling
-cling to
 clink
 clinker
 clip
@@ -1929,7 +1859,6 @@ clobber
 clock
 clock in
 clock off
-clock on
 clock out
 clock up
 clog
@@ -1959,7 +1888,6 @@ cloy
 club
 cluck
 clue
-clue in
 clump
 clunk
 cluster
@@ -1969,7 +1897,6 @@ clutter up
 co-author
 co-educate
 co-occur
-co-occur with
 co-opt
 co-sign
 co-star
@@ -2033,23 +1960,19 @@ collect
 collectivise
 collectivize
 collide
-collide with
 colligate
 collimate
 collocate
-collocate with
 collogue
 collude
 colly
 colonise
 colonize
 color
-color in
 colorcast
 colorise
 colorize
 colour
-colour in
 colourise
 colourize
 comb
@@ -2068,21 +1991,17 @@ come around
 come away
 come back
 come before
-come by
 come close
 come down
 come forth
 come forward
 come home
 come in
-come in for
 come in handy
-come into
 come into being
 come near
 come of age
 come off
-come on
 come out
 come out of the closet
 come over
@@ -2098,9 +2017,6 @@ come to mind
 come to the fore
 come together
 come up
-come up to
-come upon
-come with
 comfit
 comfort
 command
@@ -2173,7 +2089,6 @@ conceive
 conceive of
 concenter
 concentrate
-concentrate on
 concentre
 conceptualise
 conceptualize
@@ -2196,7 +2111,6 @@ condense
 condescend
 condition
 condole
-condole with
 condone
 conduce
 conduct
@@ -2207,7 +2121,6 @@ confect
 confection
 confederate
 confer
-confer with
 confess
 confide
 configure
@@ -2218,7 +2131,6 @@ conflagrate
 conflate
 conflict
 conform
-conform to
 confound
 confront
 confuse
@@ -2244,7 +2156,6 @@ conk out
 conn
 connect
 connive
-connive at
 connote
 conquer
 conscript
@@ -2271,7 +2182,6 @@ constrict
 constringe
 construct
 construe
-construe with
 consubstantiate
 consult
 consume
@@ -2293,7 +2203,6 @@ contort
 contour
 contra danse
 contract
-contract in
 contract out
 contradance
 contradict
@@ -2325,7 +2234,6 @@ convoy
 convulse
 coo
 cooccur
-cooccur with
 cook
 cook out
 cook up
@@ -2342,7 +2250,6 @@ coordinate
 cop
 cop out
 cope
-cope with
 copolymerise
 copolymerize
 copper
@@ -2386,7 +2293,6 @@ cosset
 cost
 costume
 cotton
-cotton on
 cotton up
 couch
 cough
@@ -2396,7 +2302,6 @@ counsel
 count
 count down
 count off
-count on
 count out
 countenance
 counter
@@ -2423,7 +2328,6 @@ countervail
 counterweight
 country-dance
 couple
-couple on
 couple up
 course
 court
@@ -2432,7 +2336,6 @@ court favour
 court-martial
 covenant
 cover
-cover for
 cover up
 covet
 cow
@@ -2561,9 +2464,7 @@ crush
 crush out
 crust
 cry
-cry for
 cry out
-cry out for
 crystalise
 crystalize
 crystallise
@@ -2613,18 +2514,15 @@ cut back
 cut corners
 cut down
 cut in
-cut into
 cut off
 cut out
 cut short
 cut through
-cut to
 cut to ribbons
 cut up
 cutinize
 cybernate
 cycle
-cycle on
 cyclostyle
 cypher
 dab
@@ -2784,7 +2682,6 @@ defame
 defang
 defat
 default
-default on
 defeat
 defecate
 defect
@@ -2910,8 +2807,6 @@ deoxidize
 deoxygenate
 depart
 depend
-depend on
-depend upon
 depersonalise
 depersonalize
 depict
@@ -2958,7 +2853,6 @@ desalinize
 desalt
 descale
 descant
-descant on
 descend
 describe
 descry
@@ -3036,7 +2930,6 @@ devitalize
 devitrify
 devoice
 devolve
-devolve on
 devote
 devour
 diabolise
@@ -3071,7 +2964,6 @@ diffract
 diffuse
 dig
 dig in
-dig into
 dig out
 dig up
 digest
@@ -3099,7 +2991,6 @@ ding
 dingdong
 dinge
 dip
-dip into
 dip solder
 diphthongise
 diphthongize
@@ -3112,7 +3003,6 @@ disadvantage
 disaffect
 disafforest
 disagree
-disagree with
 disallow
 disambiguate
 disappear
@@ -3230,7 +3120,6 @@ disparage
 dispatch
 dispel
 dispense
-dispense with
 disperse
 dispirit
 displace
@@ -3300,12 +3189,8 @@ divvy up
 dizen
 dizzy
 do
-do a job on
-do away with
-do by
 do drugs
 do good
-do in
 do it
 do justice
 do one's best
@@ -3313,7 +3198,6 @@ do the dishes
 do the honors
 do up
 do well
-do well by
 do work
 dock
 docket
@@ -3384,8 +3268,6 @@ draft
 drag
 drag a bunt
 drag down
-drag in
-drag on
 drag one's feet
 drag one's heels
 drag out
@@ -3400,14 +3282,12 @@ dramatize
 drape
 draught
 draw
-draw a bead on
 draw a blank
 draw a line
 draw and quarter
 draw away
 draw back
 draw close
-draw in
 draw near
 draw off
 draw out
@@ -3433,7 +3313,6 @@ drift apart
 drift away
 drift off
 drill
-drill in
 drink
 drink down
 drink in
@@ -3462,7 +3341,6 @@ drop anchor
 drop away
 drop back
 drop behind
-drop by
 drop by the wayside
 drop dead
 drop down
@@ -3515,7 +3393,6 @@ dusk
 dust
 dwarf
 dwell
-dwell on
 dwindle
 dwindle away
 dwindle down
@@ -3534,11 +3411,8 @@ ease
 ease off
 ease up
 eat
-eat at
 eat away
 eat in
-eat into
-eat on
 eat out
 eat up
 eavesdrop
@@ -3576,7 +3450,6 @@ effloresce
 effuse
 egest
 egg
-egg on
 egotrip
 egress
 ejaculate
@@ -3612,7 +3485,6 @@ embalm
 embank
 embargo
 embark
-embark on
 embarrass
 embattle
 embed
@@ -3672,7 +3544,6 @@ encounter
 encourage
 encrimson
 encroach
-encroach upon
 encrust
 encrypt
 encumber
@@ -3738,7 +3609,6 @@ ensure
 entail
 entangle
 enter
-enter upon
 entertain
 enthral
 enthrall
@@ -3846,7 +3716,6 @@ exasperate
 excavate
 exceed
 excel
-excel at
 except
 excerpt
 exchange
@@ -3920,7 +3789,6 @@ extemporise
 extemporize
 extend
 extend oneself
-extend to
 extenuate
 exteriorise
 exteriorize
@@ -3984,12 +3852,10 @@ fall behind
 fall by the wayside
 fall down
 fall flat
-fall for
 fall from grace
 fall in
 fall in line
 fall in love
-fall into
 fall into place
 fall off
 fall open
@@ -4000,7 +3866,6 @@ fall short
 fall short of
 fall through
 fall under
-fall upon
 falsify
 falter
 familiarise
@@ -4025,7 +3890,6 @@ fashion
 fast
 fast dye
 fasten
-fasten on
 fat
 fate
 father
@@ -4055,11 +3919,7 @@ fee
 fee-tail
 feed
 feed back
-feed in
-feed on
-feed upon
 feel
-feel for
 feel like
 feel like a million
 feel like a million dollars
@@ -4074,9 +3934,7 @@ felt up
 feminise
 feminize
 fence
-fence in
 fend
-fend for
 fend off
 ferment
 ferret
@@ -4101,7 +3959,6 @@ fibrillate
 fictionalise
 fictionalize
 fiddle
-fiddle with
 fidget
 field
 field-test
@@ -4117,7 +3974,6 @@ figure skate
 filch
 file
 file away
-file in
 file out
 filet
 filiate
@@ -4125,7 +3981,6 @@ filibuster
 filigree
 fill
 fill again
-fill in
 fill out
 fill the bill
 fill up
@@ -4232,7 +4087,6 @@ flip out
 flip over
 flip-flop
 flirt
-flirt with
 flit
 flitter
 float
@@ -4279,13 +4133,11 @@ flutter
 flux
 fly
 fly blind
-fly by
 fly contact
 fly high
 fly in the face of
 fly in the teeth of
 fly off the handle
-fly on
 fly open
 fly the coop
 fly-fish
@@ -4298,7 +4150,6 @@ fob off
 focalise
 focalize
 focus
-focus on
 fodder
 fog
 fog up
@@ -4314,7 +4165,6 @@ follow out
 follow suit
 follow through
 follow up
-follow up on
 foment
 fondle
 fool
@@ -4328,7 +4178,6 @@ footnote
 footslog
 forage
 foray
-foray into
 forbear
 forbid
 force
@@ -4404,7 +4253,6 @@ fragment
 fragmentise
 fragmentize
 frame
-frame in
 frame up
 franchise
 frank
@@ -4459,8 +4307,6 @@ frost over
 froth
 froth at the mouth
 frown
-frown on
-frown upon
 fructify
 fruit
 frustrate
@@ -4550,7 +4396,6 @@ gasp
 gate
 gate-crash
 gather
-gather in
 gather up
 gauffer
 gauge
@@ -4589,25 +4434,19 @@ get about
 get across
 get ahead
 get along
-get along with
 get around
-get around to
-get at
 get away
 get back
 get behind
-get by
 get cracking
 get down
 get dressed
 get even
 get going
-get hitched with
 get hold
 get hold of
 get in
 get in touch
-get into
 get it
 get it on
 get laid
@@ -4615,8 +4454,6 @@ get married
 get moving
 get off
 get off the ground
-get on
-get on with
 get one's lumps
 get onto
 get out
@@ -4632,7 +4469,6 @@ get the hang
 get the jump
 get the picture
 get through
-get to
 get to grips
 get together
 get under one's skin
@@ -4695,7 +4531,6 @@ give the gate
 give the glad eye
 give the once over
 give the sack
-give tongue to
 give up
 give vent
 give voice
@@ -4713,14 +4548,12 @@ glance
 glance over
 glare
 glass
-glass in
 glass over
 glaze
 glaze over
 gleam
 glean
 glide
-glide by
 glide-bomb
 glimmer
 glimpse
@@ -4749,35 +4582,28 @@ glycerolize
 gnarl
 gnash
 gnaw
-gnaw at
 go
 go Dutch
 go a long way
 go about
 go across
 go after
-go against
 go ahead
 go all out
 go along
 go around
 go away
 go back
-go back on
 go bad
 go ballistic
-go by
 go deep
 go down
-go down on
 go far
-go for
 go for broke
 go forth
 go forward
 go home
 go in
-go into
 go off
 go off at half-cock
 go off half-cocked
@@ -4788,7 +4614,6 @@ go past
 go steady
 go through
 go through the motions
-go to
 go to bed
 go to pieces
 go to pot
@@ -4797,7 +4622,6 @@ go to the dogs
 go to war
 go under
 go up
-go with
 go wrong
 goad
 gobble
@@ -4875,7 +4699,6 @@ grok
 groom
 groove
 grope
-grope for
 gross
 gross out
 grouch
@@ -4905,7 +4728,6 @@ guesstimate
 guffaw
 guggle
 guide
-guide on
 guillotine
 gull
 gulp
@@ -4928,7 +4750,6 @@ habilitate
 habit
 habituate
 hack
-hack on
 hackle
 had best
 haemagglutinate
@@ -4944,7 +4765,6 @@ halve
 ham
 ham it up
 hammer
-hammer in
 hammer out
 hamper
 hamstring
@@ -4981,7 +4801,6 @@ hang up
 hanker
 hap
 happen
-happen upon
 harangue
 harass
 harbinger
@@ -5002,7 +4821,6 @@ harp
 harpoon
 harrow
 harry
-harsh on
 harshen
 harvest
 hash
@@ -5036,12 +4854,10 @@ have it away
 have it coming
 have it off
 have kittens
-have on
 have sex
 have the best
 have words
 have young
-have-to doe with
 haw
 hawk
 hay
@@ -5120,8 +4936,6 @@ hike up
 hill
 hinder
 hinge
-hinge on
-hinge upon
 hint
 hire
 hire out
@@ -5163,14 +4977,12 @@ hold down
 hold fast
 hold firm
 hold forth
-hold in
 hold off
 hold on
 hold one's own
 hold open
 hold out
 hold over
-hold still for
 hold sway
 hold the line
 hold tight
@@ -5208,14 +5020,11 @@ hoodwink
 hoof
 hoof it
 hook
-hook on
 hook up
-hook up with
 hoop
 hoot
 hoover
 hop
-hop on
 hop out
 hop up
 hop-skip
@@ -5375,7 +5184,6 @@ impend
 imperil
 impersonate
 impinge
-impinge on
 implant
 implement
 implicate
@@ -5474,7 +5282,6 @@ ingurgitate
 inhabit
 inhale
 inhere
-inhere in
 inherit
 inhibit
 inhume
@@ -5588,7 +5395,6 @@ intromit
 introspect
 introvert
 intrude
-intrude on
 intrust
 intubate
 intuit
@@ -5661,7 +5467,6 @@ jampack
 jangle
 japan
 jar
-jar against
 jaundice
 jaunt
 jaw
@@ -5679,7 +5484,6 @@ jeopardize
 jerk
 jerk off
 jest
-jest at
 jet
 jettison
 jewel
@@ -5728,7 +5532,6 @@ jumble
 jump
 jump for joy
 jump off
-jump on
 jump out
 jump-start
 jumpstart
@@ -5746,7 +5549,6 @@ keel over
 keen
 keep
 keep abreast
-keep an eye on
 keep apart
 keep away
 keep back
@@ -5754,12 +5556,10 @@ keep company
 keep down
 keep going
 keep guard
-keep in
 keep in line
 keep mum
 keep note
 keep off
-keep on
 keep one's distance
 keep one's eyes off
 keep one's eyes open
@@ -5774,7 +5574,6 @@ keep out
 keep pace
 keep quiet
 keep step
-keep tabs on
 keep to oneself
 keep track
 keep up
@@ -5828,7 +5627,6 @@ knight
 knit
 knock
 knock about
-knock against
 knock back
 knock cold
 knock down
@@ -5854,7 +5652,6 @@ labialize
 labor
 labour
 lace
-lace into
 lace up
 lacerate
 lack
@@ -5869,7 +5666,6 @@ laicise
 laicize
 lallygag
 lam
-lam into
 lamb
 lambast
 lambaste
@@ -5906,7 +5702,6 @@ latinise
 latinize
 laud
 laugh
-laugh at
 laugh away
 laugh loudly
 laugh off
@@ -5920,17 +5715,13 @@ lay aside
 lay away
 lay claim
 lay down
-lay eyes on
-lay hands on
 lay in
-lay into
 lay off
 lay on the line
 lay out
 lay over
 lay to rest
 lay up
-lay waste to
 layer
 laze
 leach
@@ -5938,7 +5729,6 @@ lead
 lead astray
 lead by the nose
 lead off
-lead on
 lead up
 leaf
 league
@@ -5946,9 +5736,7 @@ league together
 leak
 leak out
 lean
-lean against
 lean back
-lean on
 leap
 leap out
 leapfrog
@@ -5989,11 +5777,9 @@ let drive
 let fly
 let go
 let go of
-let in
 let it go
 let loose
 let off
-let on
 let out
 let the cat out of the bag
 let up
@@ -6026,7 +5812,6 @@ lie down
 lie in
 lie in wait
 lie low
-lie with
 lifehack
 lift
 lift off
@@ -6035,7 +5820,6 @@ lift up
 ligate
 light
 light up
-light upon
 lighten
 lighten up
 lighter
@@ -6088,8 +5872,6 @@ live on
 live out
 live over
 live together
-live up to
-live with
 liven
 liven up
 load
@@ -6105,12 +5887,10 @@ localize
 locate
 lock
 lock away
-lock in
 lock out
 lock up
 locomote
 lodge
-lodge in
 loft
 log
 log Z's
@@ -6131,24 +5911,16 @@ look
 look across
 look after
 look around
-look at
 look away
 look back
 look backward
-look down on
-look for
 look forward
-look into
 look like
 look on
 look out
-look out on
 look out over
 look sharp
-look to
 look up
-look up to
-look upon
 loom
 loop
 loose
@@ -6181,7 +5953,6 @@ lower
 lower oneself
 lube
 lubricate
-luck into
 luck it
 luck out
 luck through
@@ -6242,7 +6013,6 @@ make believe
 make bold
 make clean
 make do
-make for
 make full
 make fun
 make good
@@ -6351,7 +6121,6 @@ matt-up
 matte
 matte up
 matter
-matter to
 maturate
 mature
 maul
@@ -6372,7 +6141,6 @@ medicate
 medicine
 meditate
 meet
-meet up with
 melanise
 melanize
 meld
@@ -6532,7 +6300,6 @@ misuse
 miter
 mitigate
 mix
-mix in
 mix up
 mizzle
 moan
@@ -6577,7 +6344,6 @@ mooch
 moon
 moon about
 moon around
-moon on
 moonlight
 moonshine
 moor
@@ -6627,8 +6393,6 @@ move around
 move back
 move back and forth
 move in
-move in on
-move into
 move involuntarily
 move on
 move out
@@ -6666,14 +6430,12 @@ murder
 murk
 murmur
 muscle
-muscle into
 muse
 mush
 mushroom
 muss
 mussitate
 muster
-muster in
 muster out
 muster up
 mutate
@@ -6816,7 +6578,6 @@ obstipate
 obstruct
 obtain
 obtrude
-obtrude upon
 obtund
 obturate
 obviate
@@ -6859,7 +6620,6 @@ open
 open fire
 open up
 operate
-operate on
 opine
 oppose
 oppress
@@ -6883,7 +6643,6 @@ orientalise
 orientalize
 orientate
 originate
-originate in
 ornament
 orphan
 oscillate
@@ -6894,7 +6653,6 @@ ostracise
 ostracize
 oust
 out
-out in
 out-herod
 outbalance
 outbid
@@ -7081,7 +6839,6 @@ ozonize
 pace
 pacify
 pack
-pack on
 pack together
 package
 pad
@@ -7156,9 +6913,7 @@ parrot
 parry
 parse
 part
-part with
 partake
-partake in
 parti-color
 participate
 particularise
@@ -7173,7 +6928,6 @@ pass across
 pass along
 pass around
 pass away
-pass by
 pass judgment
 pass off
 pass on
@@ -7210,7 +6964,6 @@ pawn
 pay
 pay back
 pay cash
-pay for
 pay heed
 pay off
 pay out
@@ -7220,7 +6973,6 @@ peak
 peal
 pearl
 peck
-peck at
 peculate
 pedal
 peddle
@@ -7283,7 +7035,6 @@ persecute
 perseverate
 persevere
 persist
-persist in
 personalise
 personalize
 personate
@@ -7304,7 +7055,6 @@ petition
 petrify
 pettifog
 phase
-phase in
 phase out
 philander
 philosophise
@@ -7322,7 +7072,6 @@ photostat
 phrase
 pick
 pick apart
-pick at
 pick off
 pick out
 pick over
@@ -7369,7 +7118,6 @@ pip
 pip out
 pipe
 pipe down
-pipe in
 pipe up
 pipe-clay
 pique
@@ -7380,7 +7128,6 @@ pistol-whip
 pit
 pitch
 pitch in
-pitch into
 pitchfork
 pith
 pitter-patter
@@ -7414,8 +7161,6 @@ plate
 platinize
 platitudinize
 play
-play a joke on
-play a trick on
 play along
 play around
 play back
@@ -7443,21 +7188,17 @@ plonk down
 plop
 plot
 plough
-plough on
 plow
 plow ahead
 pluck
-pluck at
 plug
 plug away
 plug in
-plug into
 plumb
 plume
 plummet
 plump
 plump down
-plump for
 plump in
 plump out
 plump up
@@ -7465,7 +7206,6 @@ plunder
 plunge
 plunk
 plunk down
-plunk for
 pluralise
 pluralize
 ply
@@ -7485,9 +7225,7 @@ point up
 poise
 poison
 poke
-poke at
 poke fun
-poke into
 poke out
 polarise
 polarize
@@ -7568,7 +7306,6 @@ pound
 pound off
 pound up
 pour
-pour cold water on
 pour down
 pour forth
 pour out
@@ -7638,7 +7375,6 @@ premiss
 preoccupy
 preordain
 prepare
-prepare for
 prepay
 preponderate
 prepose
@@ -7651,7 +7387,6 @@ preserve
 preside
 press
 press down
-press down on
 press home
 press on
 press out
@@ -7717,7 +7452,6 @@ prognosticate
 program
 programme
 progress
-progress to
 prohibit
 project
 prolapse
@@ -7790,10 +7524,8 @@ puke
 pule
 pull
 pull a face
-pull a fast one on
 pull ahead
 pull along
-pull at
 pull away
 pull back
 pull down
@@ -7817,7 +7549,6 @@ pull up short
 pull up stakes
 pull wires
 pullulate
-pullulate with
 pulp
 pulsate
 pulse
@@ -7871,9 +7602,7 @@ put back
 put behind bars
 put down
 put forward
-put in
 put off
-put on
 put on airs
 put on the line
 put one across
@@ -7903,7 +7632,6 @@ quadruple
 quadruplicate
 quaff
 quail
-quail at
 quake
 qualify
 quantify
@@ -7924,7 +7652,6 @@ quench
 query
 quest
 quest after
-quest for
 question
 quetch
 queue
@@ -7947,7 +7674,6 @@ quiz
 quote
 rabbet
 rabbit
-rabbit on
 race
 rachet up
 rack
@@ -7967,7 +7693,6 @@ rag
 rage
 raid
 rail
-rail in
 rail off
 railroad
 raiment
@@ -7982,7 +7707,6 @@ raise hell
 raise the roof
 raise up
 rake
-rake in
 rake off
 rake up
 rally
@@ -7999,7 +7723,6 @@ ranch
 randomise
 randomize
 range
-range in
 rank
 rankle
 ransack
@@ -8058,7 +7781,6 @@ re-introduce
 re-start
 reabsorb
 reach
-reach into
 reach one's nostrils
 reach out
 reacquaint
@@ -8241,7 +7963,6 @@ refute
 regain
 regale
 regard
-regard as
 regenerate
 regiment
 register
@@ -8269,7 +7990,6 @@ reignite
 reimburse
 reimpose
 rein
-rein in
 reincarnate
 reinforce
 reinstall
@@ -8308,8 +8028,6 @@ relive
 reload
 relocate
 rely
-rely on
-rely upon
 relyric
 remain
 remain down
@@ -8342,10 +8060,8 @@ render-set
 rendezvous
 renegade
 renege
-renege on
 renegociate
 renegotiate
-renegue on
 renew
 renormalise
 renormalize
@@ -8381,7 +8097,6 @@ repoint
 report
 report out
 repose
-repose on
 reposit
 reposition
 repossess
@@ -8452,7 +8167,6 @@ respite
 resplend
 respond
 rest
-rest on
 restart
 restate
 restitute
@@ -8626,13 +8340,10 @@ rook
 room
 roost
 root
-root for
-root on
 root out
 rootle
 rope
 rope down
-rope in
 rope off
 rope up
 rosin
@@ -8640,7 +8351,6 @@ rot
 rotate
 rouge
 rough
-rough in
 rough out
 rough up
 rough-dry
@@ -8688,7 +8398,6 @@ ruggedise
 ruggedize
 ruin
 rule
-rule in
 rule out
 rumba
 rumble
@@ -8707,14 +8416,10 @@ run along
 run around
 run away
 run bases
-run by
 run down
 run dry
-run for
-run into
 run low
 run off
-run on
 run out
 run over
 run roughshod
@@ -8867,7 +8572,6 @@ scranch
 scrap
 scrape
 scrape along
-scrape by
 scrape up
 scratch
 scratch along
@@ -8912,7 +8616,6 @@ scurry
 scuttle
 scythe
 seal
-seal in
 seal off
 seam
 seaplane
@@ -8956,7 +8659,6 @@ segregate
 segue
 seine
 seize
-seize on
 seize with teeth
 select
 self-destroy
@@ -8976,10 +8678,7 @@ send around
 send away
 send back
 send down
-send for
-send in
 send off
-send on
 send out
 send packing
 send word
@@ -9029,15 +8728,12 @@ set free
 set in
 set in motion
 set off
-set on
 set on fire
 set out
 set to music
 set up
-set upon
 settle
 settle down
-settle on
 sever
 severalise
 severalize
@@ -9082,7 +8778,6 @@ shear
 sheathe
 shed
 shed blood
-shed light on
 sheer
 sheet
 shell
@@ -9102,7 +8797,6 @@ shimmer
 shimmy
 shin
 shine
-shine at
 shine up
 shingle
 shinny
@@ -9129,12 +8823,10 @@ shoot
 shoot a line
 shoot craps
 shoot down
-shoot for
 shoot one's mouth off
 shoot the breeze
 shoot up
 shop
-shop at
 shoplift
 shore
 shore up
@@ -9183,7 +8875,6 @@ shush
 shut
 shut away
 shut down
-shut in
 shut off
 shut one's mouth
 shut out
@@ -9263,7 +8954,6 @@ siss
 sit
 sit around
 sit back
-sit by
 sit down
 sit in
 sit out
@@ -9329,13 +9019,11 @@ slake
 slalom
 slam
 slam dance
-slam on
 slam-dunk
 slander
 slang
 slant
 slap
-slap on
 slap together
 slash
 slat
@@ -9359,7 +9047,6 @@ sleep off
 sleep out
 sleep over
 sleep together
-sleep with
 sleepwalk
 sleet
 sleigh
@@ -9368,14 +9055,12 @@ slenderize
 sleuth
 slew
 slice
-slice into
 slice through
 slice up
 slick
 slick down
 slick up
 slide
-slide by
 slide down
 slight
 slim
@@ -9385,10 +9070,8 @@ sling
 slink
 slip
 slip away
-slip by
 slip in
 slip off
-slip on
 slip one's mind
 slip up
 slit
@@ -9458,7 +9141,6 @@ snag
 snail
 snake
 snap
-snap at
 snap back
 snap off
 snap up
@@ -9571,7 +9253,6 @@ souse
 sovietise
 sovietize
 sow
-sow in
 sow one's oats
 sow one's wild oats
 space
@@ -9594,7 +9275,6 @@ spatter
 spawn
 spay
 speak
-speak for
 speak in tongues
 speak of the devil
 speak out
@@ -9674,7 +9354,6 @@ spondaize
 sponge
 sponge down
 sponge off
-sponge on
 sponge up
 sponsor
 spoof
@@ -9733,13 +9412,10 @@ squash
 squat
 squawk
 squeak
-squeak by
 squeak through
 squeal
 squeegee
 squeeze
-squeeze by
-squeeze for
 squeeze out
 squelch
 squinch
@@ -9778,10 +9454,8 @@ stampede
 stanch
 stand
 stand back
-stand by
 stand fast
 stand firm
-stand for
 stand guard
 stand in
 stand out
@@ -9810,15 +9484,12 @@ state
 station
 staunch
 stave
-stave in
 stave off
 stay
-stay at
 stay away
 stay fresh
 stay in place
 stay off
-stay on
 stay over
 stay put
 stay together
@@ -9834,8 +9505,6 @@ steamer
 steamroll
 steamroller
 steel
-steel oneself against
-steel onself for
 steep
 steepen
 steer
@@ -9846,7 +9515,6 @@ step
 step down
 step forward
 step in
-step on
 step on it
 step out
 step to the fore
@@ -9859,14 +9527,9 @@ stew
 stick
 stick about
 stick around
-stick by
-stick in
-stick on
 stick out
-stick to
 stick together
 stick up
-stick with
 stickle
 stiffen
 stifle
@@ -9902,7 +9565,6 @@ stonewash
 stooge
 stool
 stoop
-stoop to
 stop
 stop dead
 stop over
@@ -10014,7 +9676,6 @@ suborn
 subpoena
 subrogate
 subscribe
-subscribe to
 subserve
 subside
 subsidise
@@ -10094,7 +9755,6 @@ superpose
 superscribe
 supersede
 supervene
-supervene upon
 supervise
 supinate
 supplant
@@ -10183,7 +9843,6 @@ swirl
 swish
 switch
 switch off
-switch on
 switch over
 switch-hit
 swivel
@@ -10208,7 +9867,6 @@ symmetrise
 symmetrize
 sympathise
 sympathize
-sympathize with
 symphonise
 symphonize
 sync
@@ -10232,12 +9890,10 @@ tabularise
 tabularize
 tabulate
 tack
-tack on
 tack together
 tackle
 tag
 tag along
-tag on
 tail
 tailgate
 tailor
@@ -10278,7 +9934,6 @@ take exception
 take fire
 take five
 take flight
-take for
 take for granted
 take form
 take heart
@@ -10286,7 +9941,6 @@ take heed
 take hold
 take hold of
 take home
-take in
 take in charge
 take in vain
 take in water
@@ -10294,14 +9948,12 @@ take into account
 take issue
 take it easy
 take it on the chin
-take kindly to
 take leave
 take lying down
 take note
 take notice
 take off
 take office
-take on
 take one's lumps
 take orders
 take out
@@ -10329,7 +9981,6 @@ take the stand
 take the veil
 take time by the forelock
 take time off
-take to
 take to be
 take to heart
 take to task
@@ -10342,7 +9993,6 @@ talc
 talk
 talk about
 talk down
-talk into
 talk of
 talk out of
 talk over
@@ -10358,7 +10008,6 @@ tamper
 tampon
 tan
 tangle
-tangle with
 tango
 tank
 tantalise
@@ -10395,7 +10044,6 @@ tear
 tear apart
 tear away
 tear down
-tear into
 tear off
 tear up
 teargas
@@ -10405,7 +10053,6 @@ tee
 tee off
 tee up
 teem
-teem in
 teeter
 teeter-totter
 teetertotter
@@ -10425,7 +10072,6 @@ telex
 tell
 tell apart
 tell off
-tell on
 temper
 temporise
 temporize
@@ -10497,7 +10143,6 @@ throw
 throw a fit
 throw away
 throw back
-throw cold water on
 throw in
 throw in the towel
 throw off
@@ -10533,7 +10178,6 @@ tidy
 tidy up
 tie
 tie down
-tie in
 tie up
 tie-dye
 tighten
@@ -10614,7 +10258,6 @@ torture
 toss
 toss away
 toss back
-toss in
 toss off
 toss out
 tot
@@ -10630,7 +10273,6 @@ touch a chord
 touch base
 touch down
 touch off
-touch on
 touch up
 touch-type
 toughen
@@ -10642,12 +10284,10 @@ tow
 towel
 tower
 toy
-toy with
 trace
 track
 track down
 trade
-trade in
 trademark
 traduce
 traffic
@@ -10703,16 +10343,13 @@ traumatize
 travail
 travel
 travel along
-travel by
 travel purposefully
 travel rapidly
-travel to
 traverse
 travesty
 trawl
 tread
 tread down
-tread on
 treadle
 treasure
 treat
@@ -10782,8 +10419,6 @@ trundle
 truss
 trust
 try
-try for
-try on
 try out
 tsk
 tube
@@ -10818,7 +10453,6 @@ turn back
 turn down
 turn in
 turn off
-turn on
 turn on a dime
 turn one's stomach
 turn out
@@ -10827,7 +10461,6 @@ turn tail
 turn the tables
 turn the tide
 turn thumbs down
-turn to
 turn turtle
 turn up
 turn up the heat
@@ -11052,13 +10685,11 @@ upstage
 urbanise
 urbanize
 urge
-urge on
 urinate
 urticate
 use
 use up
 usher
-usher in
 usher out
 usurp
 utilise
@@ -11132,7 +10763,6 @@ victual
 videotape
 vie
 view
-view as
 vilify
 vilipend
 vindicate
@@ -11168,7 +10798,6 @@ vomit up
 voodoo
 vote
 vote down
-vote in
 vote out
 vouch
 vouchsafe
@@ -11192,7 +10821,6 @@ wager
 waggle
 wail
 wait
-wait on
 waitress
 waive
 wake
@@ -11210,7 +10838,6 @@ walk out of
 walk over
 walk through
 wall
-wall in
 wall up
 wallop
 wallow
@@ -11234,7 +10861,6 @@ ware
 warehouse
 warm
 warm the bench
-warm to
 warm up
 warn
 warp
@@ -11274,13 +10900,11 @@ wear
 wear away
 wear down
 wear off
-wear on
 wear out
 wear round
 wear ship
 wear the trousers
 wear thin
-wear upon
 weary
 weather
 weatherproof
@@ -11299,7 +10923,6 @@ weep
 weigh
 weigh anchor
 weigh down
-weigh on
 weigh the anchor
 weight
 weight down
@@ -11355,7 +10978,6 @@ whirr
 whish
 whisk
 whisk away
-whisk by
 whisk off
 whisker
 whisper
@@ -11403,7 +11025,6 @@ wine
 wine and dine
 wing
 wink
-wink at
 winkle
 winkle out
 winnow
@@ -11441,10 +11062,7 @@ woolgather
 woosh
 word
 work
-work at
-work in
 work off
-work on
 work out
 work over
 work through
@@ -11481,7 +11099,6 @@ write in
 write in code
 write of
 write off
-write on
 write out
 write up
 writhe
@@ -11521,7 +11138,6 @@ zest
 zigzag
 zinc
 zip
-zip by
 zip up
 zipper
 zone
